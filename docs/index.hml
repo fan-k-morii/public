@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LP & CV</title>
+</head>
+<body>
+<script type="text/javascript">
+    var nend_vars=[{
+        "sub_conversion_property_id":4524,
+        "price":0,
+        "description":""
+    }];
+    var nend_domain = "https://k-morii.dev.nend.net/";
+</script>
+<script src="https://k-morii.dev.nend.net/js/nendCvHandler.js" type="text/javascript"></script>
+</body>
+</html>
